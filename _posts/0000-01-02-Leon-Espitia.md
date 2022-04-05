@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+## Coding is quite challenging but for me results fantastic!!
 Use the left arrow to go back!
